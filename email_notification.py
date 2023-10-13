@@ -22,7 +22,7 @@ import time
 
 # Request all access (permission to read/send/receive emails, manage the inbox, and more)
 SCOPES = ['https://mail.google.com/']
-my_email = 'yijun142857@gmail.com'
+my_email = '******@gmail.com'
 
 def gmail_authenticate():
     creds = None
